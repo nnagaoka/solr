@@ -27,7 +27,7 @@ print("
 print("<font color=\"blue\">検索結果</font><br><br>")
 
 if cgi["q"] == "" or cgi["q"] == " " or cgi["q"] == "　"
-	print("文字を入力してください<br>")
+	print("文字を入力してください！<br>")
 else
   page =cgi["page"].to_i
   start_p = (page - 1)*10
