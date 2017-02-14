@@ -14,7 +14,7 @@ print("  <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">")
 print(" </head>")
 print("<body>")
 print("<center>")
-print(" <a href=\"search.html\"><font id=\"title\">Solr</font>&nbsp; &nbsp; Wikipedea:気候</a>")
+print(" <a href=\"search.html\"><font id=\"title\">Solr</font>&nbsp; &nbsp; Wikipedia:気候</a>")
 print("
     <form id=\"search\" style=\"display: inline\" method=\"GET\" action=\"result.cgi\" >
    <input type=\"text\" size=\"25\" name=\"q\">
